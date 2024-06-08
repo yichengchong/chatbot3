@@ -19,13 +19,13 @@ Phone Number:
 
 Laksa:
 Seafood (Available)
-Chicken (Unavailable)
+Chicken (Aavailable)
 Vegies (Available)
 Pork (Available)
 
 Add's on:
 Fish (Available)
-Chicken (UnAvailable)
+Chicken (Available)
 Prawn (Available)
 Vege (Available)
 Pork (Available)
